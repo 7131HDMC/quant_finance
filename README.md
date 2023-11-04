@@ -1,1 +1,1 @@
-# Repository with research about quantitative finance and Mmachine learning for trading
+# Quantitative Finance and Machine Learning for Trading
